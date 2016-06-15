@@ -1,0 +1,53 @@
+###################################
+Things to remember  :
+###################################
+
+//// Immediate : ////
+
+Bower : (package manager)
+    - url : https://bower.io/search/
+    - command to install package :
+        bower install --save <name of package>
+
+UI-router : 
+https://www.thepolyglotdeveloper.com/2014/11/using-ui-router-navigate-ionicframework/
+
+Git Workflow / best practices : 
+    - https://ericdouglas.github.io/2016/04/01/Git-Useful-Tips/
+
+CSS scoring : 
+    - (or also important)
+    
+    
+//// Short Term ////
+
+Material Design : (easy-ish design best practices / templates etc)
+    - (angular material design)
+
+
+PouchDB : 
+    - 
+
+
+//// Middle : ////
+
+
+
+
+
+
+
+
+//// Later : (testing)////
+
+FireBase + Angular JS
+
+User Authentication  + AngularJS:
+    - How to handle user sign up / sign in + session in angularjs
+    - https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec#.krysmcwp0
+
+
+
+//// Production : ////
+
+
